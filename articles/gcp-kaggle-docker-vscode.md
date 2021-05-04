@@ -3,7 +3,7 @@ title: "GCP (or local machine) + Kaggle Docker + VSCode"
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GCP", "Kaggle", "Docker", "VSCode", "Jupyter"]
-published: false
+published: true
 ---
 # GCP (or local machine) + Kaggle Docker + VSCode
 
